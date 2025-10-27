@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+.eggs/
+*.egg
+
+# Virtualenv
+venv/
+env/
+.env
+
+# VS Code
+.vscode/
+
+# Mac
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Models and datasets
+*.h5
+*.keras
+cleaned/
+
+# Logs
+*.log
+
+# Others
+*.pyc
